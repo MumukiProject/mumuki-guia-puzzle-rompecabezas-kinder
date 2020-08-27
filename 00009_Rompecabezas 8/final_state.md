@@ -1,0 +1,1 @@
+<img src='https://raw.githubusercontent.com/MumukiProject/mumuki-guia-puzzle-rompecabezas-kinder/master/assets/prueba_puzzle2_1598539043835.png'>
