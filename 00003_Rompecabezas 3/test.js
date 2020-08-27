@@ -1,6 +1,6 @@
 /*Muzzle.canvasHeight = 380;
 Muzzle.canvasWidth = 600;
 Muzzle.pieceSize = 80;*/
-Muzzle.aspectRatio = 1;
+Muzzle.aspectRatio = 100;
 
 Muzzle.basic(1, 3, 'https://raw.githubusercontent.com/MumukiProject/mumuki-guia-puzzle-rompecabezas-kinder/master/assets/prueba_puzzle_1598537743784.jpg')
