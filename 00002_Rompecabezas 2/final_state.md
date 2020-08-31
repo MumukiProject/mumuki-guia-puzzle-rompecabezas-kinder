@@ -1,1 +1,1 @@
-<img src='https://raw.githubusercontent.com/MumukiProject/mumuki-guia-puzzle-rompecabezas-kinder/master/assets/prueba_puzzle_1598537743784.jpg'>
+<img src='https://raw.githubusercontent.com/MumukiProject/mumuki-guia-puzzle-rompecabezas-kinder/master/assets/meta_auto-01_1598907441409.png'>
