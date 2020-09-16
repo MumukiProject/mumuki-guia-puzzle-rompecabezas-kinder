@@ -1,1 +1,1 @@
-Muzzle.basic(2, 2, 'https://raw.githubusercontent.com/MumukiProject/mumuki-guia-puzzle-rompecabezas-kinder/master/assets/diente-01_1600270662602.png')
+Muzzle.basic(4, 1, 'https://raw.githubusercontent.com/MumukiProject/mumuki-guia-puzzle-rompecabezas-kinder/master/assets/diente-01_1600270662602.png')
