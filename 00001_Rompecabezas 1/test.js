@@ -4,5 +4,5 @@ Muzzle.basic(1, 2, 'https://raw.githubusercontent.com/MumukiProject/mumuki-guia-
           canvas.shuffle(0.4);
           canvas.puzzle.pieces.filter(it => !it.metadata.left).forEach(it => it.translate(400, 0))
           canvas.puzzle.pieces[0].relocateTo(80, 40)
-          canvas.puzzle.pieces[1].relocateTo(80, 80)
+          canvas.puzzle.pieces[1].relocateTo(80, 120)
         });
