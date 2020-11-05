@@ -1,1 +1,1 @@
-<img src='https://raw.githubusercontent.com/MumukiProject/mumuki-guia-puzzle-rompecabezas-kinder/master/assets/basquet-01_1604600796375.svg'>
+<img src='https://raw.githubusercontent.com/MumukiProject/mumuki-guia-puzzle-rompecabezas-kinder/master/assets/rompecabezas_final1c-01_1600872591944.png'>
