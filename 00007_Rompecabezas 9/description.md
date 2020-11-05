@@ -1,3 +1,8 @@
-<img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-pruebas-contenido-mumuki/master/assets/puzzle_1597262742667.gif" alt="puzzle_1597262742667.gif" width="auto" height="auto">
+<div class="mu-kindergarten-context-image-slides">
+  <img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-puzzle-rompecabezas-kinder/master/assets/escena_regalo2_1604601210463.svg" alt="Regalo por ser el último ejercicio" class="active">
+  <img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-puzzle-rompecabezas-kinder/master/assets/rompecabezas_final1c-01_1600872591944.png" alt="Resultado final del rompecabezas: perro comiendo torta">
+</div>
+
+
 
 > Armá el rompecabezas.
