@@ -3,6 +3,4 @@
   <img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-puzzle-rompecabezas-kinder/master/assets/rompecabezas_final1c-01_1600872591944.png" alt="Resultado final del rompecabezas: perro comiendo torta">
 </div>
 
-
-
-> Armá el rompecabezas.
+> ARMÁ EL ROMPECABEZAS.
