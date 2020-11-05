@@ -1,1 +1,1 @@
-<img src='https://raw.githubusercontent.com/MumukiProject/mumuki-guia-puzzle-rompecabezas-kinder/master/assets/diente-01_1600270662602.png'>
+<img src='https://raw.githubusercontent.com/MumukiProject/mumuki-guia-puzzle-rompecabezas-kinder/master/assets/diente2-01_1604601133705.svg'>
