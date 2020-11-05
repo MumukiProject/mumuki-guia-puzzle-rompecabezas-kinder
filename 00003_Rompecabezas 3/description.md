@@ -1,3 +1,5 @@
-<img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-pruebas-contenido-mumuki/master/assets/puzzle_1597262742667.gif" alt="puzzle_1597262742667.gif" width="auto" height="auto">
+<div class="mu-kindergarten-context-image-slides">
+  <img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-puzzle-rompecabezas-kinder/master/assets/torta1-01_1600269798453.png" alt="Resultado final del rompecabezas: una torta" class="active">
+</div>
 
-> Armá el rompecabezas.
+> ARMÁ EL ROMPECABEZAS.
