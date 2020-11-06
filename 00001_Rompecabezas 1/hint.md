@@ -1,1 +1,0 @@
-PARA VOLVER A VER QUÉ HAY QUE HACER, APRETÁ EN EL OJITO.<img class="mu-kindergarten-button-image" src="https://mumuki.io/static/show-context.svg" alt="">
