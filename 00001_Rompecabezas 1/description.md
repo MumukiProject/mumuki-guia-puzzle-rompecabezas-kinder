@@ -3,4 +3,4 @@
   <img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-puzzle-rompecabezas-kinder/master/assets/torta1-01_1604600157195.svg" alt="Resultado final del rompecabezas: una torta">
 </div>
 
-> ARMÁ EL ROMPECABEZAS.
+> ARMÁ EL ROMPECABEZAS. PARA VOLVER A VER QUÉ HAY QUE HACER, APRETÁ EN EL OJITO.<img class="mu-kindergarten-button-image" src="https://mumuki.io/static/show-context.svg" alt="">
