@@ -1,1 +1,1 @@
-<p></p>
+Antes de comenzar a dar tus primeros pasos en el mundo de la programacion, ¡practicá armando algunos rompecabezas!
