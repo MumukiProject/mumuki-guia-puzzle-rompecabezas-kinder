@@ -1,1 +1,1 @@
-Antes de comenzar a dar tus primeros pasos en el mundo de la programacion, ¡practicá armando algunos rompecabezas!
+Antes de comenzar a dar tus primeros pasos en el mundo de la programación :footprints:, calentemos motores combinando piezas para armar figuras :open_mouth:. Al final te espera una sorpresa :gift:. ¡A practicar!
